@@ -1,0 +1,11 @@
+C:\Котыхов\Создание тетриса\Tetris\bin\Debug\Tetris.exe.config
+C:\Котыхов\Создание тетриса\Tetris\bin\Debug\Tetris.exe
+C:\Котыхов\Создание тетриса\Tetris\bin\Debug\Tetris.pdb
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.exe
+C:\Котыхов\Создание тетриса\Tetris\obj\Debug\Tetris.pdb
